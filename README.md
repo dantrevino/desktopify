@@ -6,7 +6,7 @@
 
 <p align="center"><b>Convert Ubuntu Server for Raspberry Pi to a Desktop.</b></p>
 <!-- <div align="center"><img src=".github/screenshot.png" alt="Quickemu Screenshot" /></div> -->
-<p align="center">Made with 💝 for <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/tux.png" align="top" width="24" /></p>
+<p align="center">Made with 💝 for <img src="https://assets.ubuntu.com/v1/cb22ba5d-favicon-16x16.png" align="top" width="24" /></p>
 
 ## Introduction
 
@@ -49,9 +49,7 @@ wizard on the next boot.
 
 ## TODO
 
-- [ ] Create a snap
 - [ ] Emoji status
-- [ ] Enable boot splash
 
 ## DONE
 
@@ -60,6 +58,11 @@ wizard on the next boot.
 - [x] Make sure it's Ubuntu on a Pi
 - [x] Make Network Manager the default backend
 - [x] Prevent low power WiFi mode
+- [x] Disable overscan
+- [x] Enable fkms driver
+- [x] Enable boot splash
+- [x] Enable Firefox hardware acceleration
+- [x] Create a snap
 - [x] Kubuntu
 - [x] Lubuntu
 - [x] Ubuntu
@@ -73,3 +76,4 @@ wizard on the next boot.
 - [x] Enable initial setup
 - [x] Prevent pointless re-installs
 - [x] Install snaps
+- [x] Install gpio tools
